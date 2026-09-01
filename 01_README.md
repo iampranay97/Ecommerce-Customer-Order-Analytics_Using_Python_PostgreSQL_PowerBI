@@ -103,7 +103,7 @@ Python was used for:
 
 Notebook:
 
-python/E-Commerce_Customer_Order_Python_Analytics.ipynb
+[E-Commerce_Customer_Order_Python_Analytics.ipynb](08_E-Commerce_Customer_Order_Python_Analytics.ipynb)
 
 ## PostgreSQL Analysis
 
@@ -134,7 +134,7 @@ PostgreSQL was used to perform eight core business analyses:
 
 SQL file:
 
-sql/E-Commerce_Customer_Order_SQL_Analytics.sql
+[E-Commerce_Customer_Order_PostgreSQL_Analytics.sql](09_E-Commerce_Customer_Order_PostgreSQL_Analytics.sql)
 
 ## Power BI Dashboard
 
@@ -173,7 +173,7 @@ Focuses on:
 
 Power BI file:
 
-powerbi/E-Commerce_Customer_Order_Analytics.pbix
+[E-Commerce_Customer_Order_Analytics.pbix](10_E-Commerce_Customer_Order_Analytics.pbix)
 
 ## Key KPIs
 
