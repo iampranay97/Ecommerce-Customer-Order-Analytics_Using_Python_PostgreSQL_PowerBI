@@ -227,16 +227,17 @@ Identify high-value customers and develop targeted retention or loyalty strategi
 Monitor monthly order trends to understand seasonal demand and support operational planning.
 
 
-## Dashboard Preview
+## 📊 Power BI Dashboard Overview
 
-### 1. Executive Overview
-...
+### 🧩 Page 1 – Executive Overview
+![Page 1 – Executive Overview](11_E-Commerce_Page_1_Executive_Overview.png)
 
-### 2. Customer & Order Analytics
-...
+### 📦 Page 2 – Customer & Order Analytics
+![Page 2 – Customer & Order Analytics](12_E-Commerce_Page_2_Customer_&_Order_Analytics.png)
 
-### 3. Delivery & Customer Experience
-...
+### 💬 Page 3 – Daily & Customer Experience
+![Page 3 – Daily & Customer Experience](13_E-Commerce_Page_3_Daily_&_Customer_Experience.png)
+
 
 # Data Preparation Note
 The original source dataset contained multiple source files that were used during the Python preparation and exploratory analysis stage.  
